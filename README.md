@@ -4,7 +4,7 @@ A collection of my real-world analytics and finance projects across healthcare a
 
 ---
 
-## 🔹 [SolutionsH Financial Insights - Healthcare](https://github.com/JonJonz7/SolutionsH_Financial_Insights/blob/main/README.md)
+## 🔹 [SolutionsH Insights - Healthcare](https://github.com/JonJonz7/SolutionsH_Financial_Insights/blob/main/README.md)
 - Built a financial reporting and automation engine for a real urgent care clinic.
 - Power BI dashboards, Python/Excel forecasts, cash runway tracker, and KPI automation concepts.
 - Focus: FP&A, BI, healthcare strategy, automation, executive-level insights.
